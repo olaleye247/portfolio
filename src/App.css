@@ -1,6 +1,6 @@
 @font-face {
-  url: "/fonts/PlayfairDisplay-Regular.ttf";
-  name: "Playfair";
+  src: "/fonts/PlayfairDisplay-Regular.ttf";
+  font-family: "Playfair";
 }
 
 * {
